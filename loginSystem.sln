@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loginSystem", "loginSystem\loginSystem.csproj", "{9B8565CC-CF01-4878-9968-62242274B5D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B8565CC-CF01-4878-9968-62242274B5D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B8565CC-CF01-4878-9968-62242274B5D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B8565CC-CF01-4878-9968-62242274B5D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B8565CC-CF01-4878-9968-62242274B5D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEBCC9D8-DE09-4890-80A9-F1EF80237100}
+	EndGlobalSection
+EndGlobal
